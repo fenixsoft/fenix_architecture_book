@@ -1,5 +1,7 @@
 # 《凤凰架构：构建可靠的大型分布式系统》勘误
 
+本工程为《凤凰架构：构建可靠的大型分布式系统》纸质书的勘误，根据读者反馈持续更新，可通过[issues](https://github.com/fenixsoft/fenix_architecture_book/issues)提交新的勘误。
+本仓库仅作勘误之用，如对书籍具体内容有建议或疑惑，欢迎到本书主页（[https://icyfenix.cn/](https://icyfenix.cn/)）对应章节的页面中提出。
 
 ### 勘误列表：
 
