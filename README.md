@@ -11,6 +11,9 @@
 - **Page 30**：【DEC】/RPC 与 ONC RPC 都有很浓厚的 Unix 痕迹
 <br>更正：【DCE】/RPC 与 ONC RPC 都有很浓厚的 Unix 痕迹
 
+- **Page 42**：POST /appointmentService?action=【comfirm】 HTTP/1.1
+<br>更正：POST /appointmentService?action=【confirm】 HTTP/1.1
+
 - **Page 76**：同时依【然能够或者在】绝大多数时候保证处理结果的准确性
 <br>更正：同时依然【能够在】绝大多数时候保证处理结果的准确性
 
