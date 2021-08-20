@@ -5,6 +5,9 @@
 
 ### 勘误列表：
 
+- **Page 40**：Google API 【Deign】 Guide
+<br>更正：Google API 【Design】 Guide
+
 #### 以下勘误内容已在第1次重印版（2021-8-15日）修正
 ------
 
