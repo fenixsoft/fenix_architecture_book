@@ -9,7 +9,7 @@
 ------
 
 - **Page 231**：通过财报上的营收、净利、毛利、资产、【负载】
-<br>更正：通过财报上的营收、净利、毛利、资产、【负载】
+<br>更正：通过财报上的营收、净利、毛利、资产、【负债】
 
 - **Page 40**：Google API 【Deign】 Guide
 <br>更正：Google API 【Design】 Guide
